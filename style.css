@@ -1,0 +1,16 @@
+body{
+font-family: Arial;
+padding: 40px;
+}
+
+li{
+cursor: pointer;
+margin: 6px 0;
+}
+
+#userDetails{
+margin-top:20px;
+padding:10px;
+border:1px solid #ccc;
+width:300px;
+}
